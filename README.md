@@ -12,7 +12,6 @@ Roomify_Package/
 ├── data/                                   The catalog + raw source data
 ├── notebooks/                              The Jupyter notebooks that built the catalog
 ├── backend/                                Supabase/FastAPI backend scaffolding
-└── docs/                                   Design doc + a standalone marketplace UI mockup
 ```
 
 ## frontend/RoomCustomizerWeb/
