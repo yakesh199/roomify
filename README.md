@@ -130,8 +130,4 @@ Supabase + FastAPI scaffolding, described in more depth in `docs/backend_design_
   hardcoded sample catalog. Superseded by the real prototype in `frontend/` now, but kept around for
   reference since it's a nice snapshot of where this started.
 
-## Not included in this package
 
-The confidentiality/IP-assignment agreement (a legal document, unrelated to the actual codebase), the
-presentation deck, and the WhatsApp demo video didn't make the cut here since they're not really part
-of the technical project — but say the word if you'd like those folded in too.
